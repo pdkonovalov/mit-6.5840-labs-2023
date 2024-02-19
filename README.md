@@ -1,10 +1,10 @@
 My implementation of mit 6.5840 labs.
 - [X] [Lab1: MapReduce](http://nil.csail.mit.edu/6.5840/2023/labs/lab-mr.html)
-- [ ] [Lab2: Raft](http://nil.csail.mit.edu/6.5840/2023/labs/lab-raft.html)
-    - [ ] Part 2A: leader election
-    - [ ] Part 2B: log
-    - [ ] Part 2C: persistence
-    - [ ] Part 2D: log compaction 
+- [X] [Lab2: Raft](http://nil.csail.mit.edu/6.5840/2023/labs/lab-raft.html)
+    - [X] Part 2A: leader election
+    - [X] Part 2B: log
+    - [X] Part 2C: persistence
+    - [X] Part 2D: log compaction 
 - [ ] [Lab 3: Fault-tolerant Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-kvraft.html)
     - [ ] Part A: Key/value service without snapshots
     - [ ] Part B: Key/value service with snapshots
