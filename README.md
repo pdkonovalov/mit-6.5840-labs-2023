@@ -1,5 +1,5 @@
 My implementation of mit 6.5840 labs.
-- [ ] [Lab1: MapReduce](http://nil.csail.mit.edu/6.5840/2023/labs/lab-mr.html)
+- [X] [Lab1: MapReduce](http://nil.csail.mit.edu/6.5840/2023/labs/lab-mr.html)
 - [ ] [Lab2: Raft](http://nil.csail.mit.edu/6.5840/2023/labs/lab-raft.html)
     - [ ] Part 2A: leader election
     - [ ] Part 2B: log
