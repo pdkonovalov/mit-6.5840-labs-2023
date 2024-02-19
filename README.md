@@ -5,9 +5,9 @@ My implementation of mit 6.5840 labs.
     - [X] Part 2B: log
     - [X] Part 2C: persistence
     - [X] Part 2D: log compaction 
-- [ ] [Lab 3: Fault-tolerant Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-kvraft.html)
-    - [ ] Part A: Key/value service without snapshots
-    - [ ] Part B: Key/value service with snapshots
+- [X] [Lab 3: Fault-tolerant Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-kvraft.html)
+    - [X] Part A: Key/value service without snapshots
+    - [X] Part B: Key/value service with snapshots
 - [ ] [Lab 4: Sharded Key/Value Service](http://nil.csail.mit.edu/6.5840/2023/labs/lab-shard.html)
     - [ ] Part A: The Shard controller
     - [ ] Part B: Sharded Key/Value Server
